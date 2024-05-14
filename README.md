@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mansi Rai</h1>
-<h3 align="center">A passionate Frontend Developer and Software Engineer from India.</h3>
-
+<h3 align="center">A passionate learner, Web Developer, Coding Enthusiast and Software Engineer</h3>
+</ul>
+<h3 align="left">Open-Source Programs🌍</h3> 
+<ul>
+   <p>🌟<b>Hacktoberfest'23 </b>🌈👩‍💻 <a href="https://www.holopin.io/@mansi1309#badges" target="blank">click here to see my badges </a></p>
+ <img src="banner2.png" alt="hacktober-badges" width="100%" height="200">
+ <br>
+ <br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi1309&label=Profile%20views&color=0e75b6&style=flat" alt="mansi1309" /> </p>
+
+- 📫⚡ Currently doing MCA from NIT RAIPUR
 
 - 📫 How to reach me **raimansi76@gmail.com**
 
