@@ -4,7 +4,7 @@
 <h3 align="left">Open-Source Programs🌍</h3> 
 <ul>
    <p>🌟<b>Hacktoberfest'23 </b>🌈👩‍💻 <a href="https://www.holopin.io/@mansi1309#badges" target="blank">click here to see my badges </a></p>
- <img src="banner2.png" alt="hacktober-badges" width="100%" height="200">
+ <img src="Hacktoberfest badges.jpg" alt="hacktober-badges" width="100%" height="200">
  <br>
  <br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
