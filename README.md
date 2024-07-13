@@ -15,12 +15,12 @@
 
 - 📫 How to reach me **raimansi76@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fact **I am a dedicated and focused tech enthusiast with excellent time management skills, always seeking new innovations and efficiently balancing multiple projects to deliver high-quality results..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mansi rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi rai" height="30" width="40" /></a>
-<a href="https://instagram.com/mansi_rai_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mansi_rai_13" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/mansi_rai_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mansi_rai_13" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/mansi_rai_09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mansi_rai_09" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mansirai168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mansirai168" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mansi09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mansi09" height="30" width="40" /></a>
